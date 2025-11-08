@@ -64,7 +64,7 @@ body {
     margin: 0;
 }
 
-
+/* header */
 #header {
     display: flex;
     flex-direction: row;
@@ -73,7 +73,7 @@ body {
     padding: 24px 0;
 }
 
-
+/* about */
 #about {
     display: flex;
     flex-direction: column;
@@ -96,7 +96,7 @@ body {
     }
 }
 
-
+/* experience */
 #experience {
     display: flex;
     flex-direction: column;
@@ -156,7 +156,7 @@ body {
     }
 }
 
-
+/* footer */
 #footer {
     display: flex;
     flex-direction: row;
